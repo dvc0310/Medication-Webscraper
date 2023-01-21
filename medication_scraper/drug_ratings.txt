@@ -1,0 +1,650 @@
+Drug Name | Rating | Number of Reviews | Availability | Drug Classes | Primary Use
+Abilify  | 6.0  | 1119  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Abilify Maintena  | 6.1  | 52  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Abiraterone  | 8.3  | 38  | Prescription only  | Miscellaneous antineoplastics  | prostate cancer
+Acetaminophen  | 6.2  | 97  | Rx and/or OTC  | Miscellaneous analgesics  | arthritis
+Acetylcysteine  | 7.2  | 28  | Rx and/or OTC  | Antidotes  | acetaminophen overdose
+Actos  | 4.9  | 40  | Prescription only  | Thiazolidinediones  | type 2 diabetes mellitus
+Adderall XR  | 8.0  | 226  | Prescription only  | CNS stimulants  | nerves
+Advair  | 7.2  | 109  | Prescription only  | Bronchodilator combinations  | asthma
+Advair Diskus  | 7.2  | 109  | Prescription only  | Bronchodilator combinations  | asthma
+Advil  | 6.8  | 40  | Rx and/or OTC  | Nonsteroidal anti-inflammatory drugs  | headache
+Afinitor  | 5.4  | 20  | Prescription only  | MTOR inhibitors  | kidney cancer
+Aimovig  | 4.9  | 571  | Prescription only  | CGRP inhibitors  | migraine
+Ajovy  | 5.1  | 258  | Prescription only  | CGRP inhibitors  | migraine
+Alendronate  | 2.3  | 153  | Prescription only  | Bisphosphonates  | osteoporosis
+Aleve  | 7.0  | 149  | Rx and/or OTC  | Nonsteroidal anti-inflammatory drugs  | arthritis
+Allopurinol  | 7.4  | 83  | Prescription only  | Antigout agents  | gout
+Alprazolam  | 8.7  | 1418  | Prescription only  | Benzodiazepines  | anxiety disorders
+Amantadine  | 6.8  | 48  | Prescription only  | Adamantane antivirals  | Parkinson's disease
+Ambien  | 7.0  | 549  | Prescription only  | Miscellaneous anxiolytics, sedatives and hypnotics  | insomnia
+Amiodarone  | 4.8  | 89  | Prescription only  | Group III antiarrhythmics  | ventricular tachycardia
+Amitriptyline  | 7.5  | 1670  | Prescription only  | Tricyclic antidepressants  | depression
+Amoxicillin  | 6.3  | 350  | Prescription only  | Aminopenicillins  | pneumonia
+Amoxicillin and Clavulanate  | 5.2  | 873  | Prescription only  | Beta-lactamase inhibitors  | None
+Anastrozole  | 5.2  | 213  | Prescription only  | Aromatase inhibitors  | breast cancer
+Apixaban  | 5.0  | 244  | Prescription only  | Factor Xa inhibitors  | atrial fibrillation
+Apriso  | 6.6  | 29  | Prescription only  | 5-aminosalicylates  | ulcerative colitis
+Aptiom  | 6.6  | 36  | Prescription only  | Dibenzazepine anticonvulsants  | partial-onset seizures
+Aricept  | 5.3  | 36  | Prescription only  | Cholinesterase inhibitors  | dementia
+Arimidex  | 5.9  | 73  | Prescription only  | Aromatase inhibitors  | breast cancer
+Aripiprazole  | 6.0  | 1412  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Aristada  | 3.2  | 14  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Aromasin  | 4.5  | 18  | Prescription only  | Aromatase inhibitors  | breast cancer
+Aspirin  | 8.0  | 46  | Rx and/or OTC  | Platelet aggregation inhibitors  | pain
+Atenolol  | 7.3  | 264  | Prescription only  | Cardioselective beta blockers  | angina
+Ativan  | 8.0  | 455  | Prescription only  | Benzodiazepine anticonvulsants  | anxiety disorders
+Atomoxetine  | 5.2  | 576  | Prescription only  | Adrenergic uptake inhibitors for ADHD  | ADHD
+Atorvastatin  | 4.2  | 281  | Prescription only  | Statins  | high cholesterol
+Aubagio  | 5.3  | 81  | Prescription only  | Selective immunosuppressants  | multiple sclerosis
+Augmentin  | 5.4  | 431  | Prescription only  | Beta-lactamase inhibitors  | None
+Azathioprine  | 6.0  | 121  | Prescription only  | Antirheumatics  | rheumatoid arthritis
+Azilect  | 7.4  | 10  | Prescription only  | Dopaminergic antiparkinsonism agents  | Parkinson's disease
+Azithromycin  | 6.9  | 1267  | Prescription only  | Macrolides  | ear infections
+Baclofen  | 6.9  | 412  | Prescription only  | Skeletal muscle relaxants  | multiple sclerosis
+Bactrim  | 5.3  | 601  | Prescription only  | Sulfonamides  | traveler's diarrhea
+Bactroban  | 7.6  | 21  | Prescription only  | Topical antibiotics  | impetigo
+Balsalazide  | 6.3  | 31  | Prescription only  | 5-aminosalicylates  | ulcerative colitis
+Basaglar  | 2.4  | 144  | Prescription only  | Insulin  | diabetes mellitus
+Belsomra  | 3.6  | 508  | Prescription only  | Miscellaneous anxiolytics, sedatives and hypnotics  | insomnia
+Benadryl  | 7.1  | 71  | Rx and/or OTC  | Anticholinergic antiemetics  | allergy symptoms
+Benazepril  | 5.3  | 22  | Prescription only  | Angiotensin Converting Enzyme Inhibitors  | high blood pressure
+Benicar  | 7.3  | 114  | Prescription only  | Angiotensin receptor blockers  | high blood pressure
+Benlysta  | 7.7  | 49  | Prescription only  | Selective immunosuppressants  | systemic lupus erythematosus (SLE)
+Bentyl  | 7.5  | 127  | Prescription only  | Anticholinergics / antispasmodics  | irritable bowel syndrome
+Benzonatate  | 3.9  | 699  | Prescription only  | Antitussives  | coughing
+Benztropine  | 6.9  | 34  | Prescription only  | Anticholinergic antiparkinson agents  | Parkinson's disease
+Betamethasone  | 8.6  | 47  | Prescription only  | Topical steroids  | eczema
+Bethanechol  | 7.6  | 16  | Prescription only  | Miscellaneous genitourinary tract agents  | urinary retention
+Bevacizumab  | 7.7  | 33  | Prescription only  | VEGF/VEGFR  inhibitors  | brain tumor
+Bicalutamide  | 8.0  | 10  | Prescription only  | Antiandrogens  | prostate cancer
+Biktarvy  | 6.9  | 171  | Prescription only  | Antiviral combinations  | human immunodeficiency virus (HIV
+Biotin  | 5.4  | 50  | Rx and/or OTC  | Vitamins  | weight loss
+Bismuth subsalicylate  | 7.8  | 30  | Rx and/or OTC  | Antidiarrheals  | diarrhea
+Bisoprolol  | 6.5  | 94  | Prescription only  | Cardioselective beta blockers  | hypertension
+Boniva  | 3.2  | 90  | Prescription only  | Bisphosphonates  | osteoporosis
+Breo Ellipta  | 5.8  | 220  | Prescription only  | Bronchodilator combinations  | asthma
+Briviact  | 6.1  | 43  | Prescription only  | Pyrrolidine anticonvulsants  | seizures
+Brompheniramine, dextromethorphan, and pseudoephedrine  | 5.2  | 57  | Rx and/or OTC  | Upper respiratory combinations  | allergies
+Budesonide  | 6.6  | 131  | Prescription only  | Glucocorticoids  | Crohn's disease
+Bunavail  | 6.2  | 62  | Discontinued  | Narcotic analgesic combinations  | opioid addiction
+Buprenorphine & Naloxone  | 7.8  | 1095  | Prescription only  | Narcotic analgesic combinations  | pain
+Bupropion  | 7.0  | 2729  | Prescription only  | Miscellaneous antidepressants  | seasonal affective disorder
+Bydureon  | 6.4  | 268  | Prescription only  | Incretin mimetics  | type 2 diabetes mellitus
+Cabometyx  | 8.1  | 8  | Prescription only  | Multikinase inhibitors  | kidney cancer
+Calcitriol  | 7.6  | 8  | Prescription only  | Vitamins  | hyperparathyroidism
+Caplyta  | 5.1  | 94  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Carbamazepine  | 6.9  | 331  | Prescription only  | Dibenzazepine anticonvulsants  | bipolar disorder
+Carbidopa and levodopa  | 7.3  | 86  | Prescription only  | Dopaminergic antiparkinsonism agents  | Parkinson's disease
+Celebrex  | 7.0  | 211  | Prescription only  | Cox-2 inhibitors  | arthritis
+Celecoxib  | 7.0  | 253  | Prescription only  | Cox-2 inhibitors  | arthritis
+Celexa  | 7.3  | 857  | Prescription only  | Selective serotonin reuptake inhibitors  | depression
+Cephalexin  | 6.4  | 478  | Prescription only  | First generation cephalosporins  | ear infections
+Cequa  | 3.8  | 24  | Prescription only  | Ophthalmic anti-inflammatory agents  | chronic dry eye
+Cetirizine  | 5.8  | 282  | Rx and/or OTC  | Antihistamines  | allergy symptoms
+Chlorpheniramine  | 8.1  | 48  | Rx and/or OTC  | Antihistamines  | runny nose
+Chlorthalidone  | 3.9  | 39  | Prescription only  | Thiazide diuretics  | edema
+Cialis  | 8.5  | 537  | Prescription only  | Impotence agents  | erectile dysfunction (impotence)
+Cimzia  | 6.8  | 69  | Prescription only  | TNF alfa inhibitors  | Crohn's disease
+Cipro  | 5.3  | 317  | Prescription only  | Quinolones  | anthrax
+Ciprofloxacin  | 5.0  | 905  | Prescription only  | Quinolones  | anthrax
+Citalopram  | 7.5  | 2149  | Prescription only  | Selective serotonin reuptake inhibitors  | depression
+Clarithromycin  | 5.4  | 815  | Prescription only  | Macrolides  | respiratory system
+Claritin  | 3.4  | 45  | Rx and/or OTC  | Antihistamines  | hay fever
+Clobetasol  | 8.4  | 150  | Prescription only  | Topical steroids  | plaque psoriasis
+Clobex  | 8.9  | 39  | Prescription only  | Topical steroids  | plaque psoriasis
+Clonazepam  | 8.1  | 1992  | Prescription only  | Benzodiazepine anticonvulsants  | seizures
+Clonidine  | 7.1  | 720  | Prescription only  | Antiadrenergic agents, centrally acting  | high blood pressure
+Clopidogrel  | 6.9  | 89  | Prescription only  | Platelet aggregation inhibitors  | heart attack
+Codeine  | 7.8  | 59  | Prescription only  | Antitussives  | None
+Colace  | 5.8  | 14  | Rx and/or OTC  | Laxatives  | constipation
+Colazal  | 6.4  | 11  | Prescription only  | 5-aminosalicylates  | ulcerative colitis
+Colchicine  | 7.3  | 96  | Prescription only  | Antigout agents  | pain
+Concerta  | 6.8  | 402  | Prescription only  | CNS stimulants  | attention deficit hyperactivity disorder (ADHD)
+Coreg  | 7.6  | 40  | Prescription only  | Non-cardioselective beta blockers  | heart failure
+Cosentyx  | 6.0  | 204  | Prescription only  | Interleukin inhibitors  | psoriasis
+Coumadin  | 8.9  | 22  | Prescription only  | Coumarins and indandiones  | stroke
+Crestor  | 5.9  | 132  | Prescription only  | Statins  | cholesterol
+Cyanocobalamin  | 8.6  | 28  | Rx and/or OTC  | Vitamins  | vitamin B12 deficiency
+Cymbalta  | 6.2  | 1814  | Prescription only  | Serotonin-norepinephrine reuptake inhibitors  | major depressive disorder
+Dabigatran  | 7.1  | 98  | Prescription only  | Thrombin inhibitors  | atrial fibrillation
+Decadron  | 4.2  | 24  | Discontinued  | Glucocorticoids  | ulcerative colitis
+Degarelix  | 9.4  | 10  | Prescription only  | Gonadotropin-releasing hormone antagonists  | prostate cancer
+Delsym  | 3.3  | 237  | Rx and/or OTC  | Antitussives  | common cold
+Demerol  | 9.4  | 75  | Prescription only  | Opioids (narcotic analgesics)  | manage the relief short-term pain
+Denosumab  | 2.8  | 355  | Prescription only  | Miscellaneous bone resorption inhibitors  | osteoporosis
+Depakote  | 6.2  | 317  | Prescription only  | Fatty acid derivative anticonvulsants  | seizures
+Depo-Provera  | 4.2  | 1953  | Prescription only  | Contraceptives  | contraceptive
+Desloratadine  | 4.9  | 32  | Prescription only  | Antihistamines  | allergies
+Desmopressin  | 9.1  | 39  | Prescription only  | Antidiuretic hormones  | central diabetes insipidus
+Desvenlafaxine  | 6.9  | 1318  | Prescription only  | Serotonin-norepinephrine reuptake inhibitors  | major depressive disorder
+Desyrel  | 6.5  | 39  | Prescription only  | Phenylpiperazine antidepressants  | major depressive disorder
+Dexamethasone  | 6.0  | 141  | Prescription only  | Glucocorticoids  | ulcerative colitis
+Dexilant  | 6.6  | 199  | Prescription only  | Proton pump inhibitors  | heartburn
+Dextroamphetamine  | 8.2  | 261  | Prescription only  | CNS stimulants  | nerves
+Diazepam  | 8.5  | 804  | Prescription only  | Benzodiazepine anticonvulsants  | anxiety
+Diclofenac  | 7.3  | 670  | Prescription only  | Nonsteroidal anti-inflammatory drugs  | osteoarthritis
+Dicyclomine  | 7.4  | 274  | Prescription only  | Anticholinergics / antispasmodics  | irritable bowel syndrome
+Diflucan  | 6.0  | 142  | Prescription only  | Azole antifungals  | bone marrow transplant
+Digoxin  | 5.8  | 14  | Prescription only  | Group V antiarrhythmics  | heart failure
+Dilantin  | 7.4  | 81  | Prescription only  | Group I antiarrhythmics  | seizures
+Diltiazem  | 5.9  | 177  | Prescription only  | Calcium channel blocking agents  | hypertension
+Diovan  | 6.8  | 65  | Prescription only  | Angiotensin receptor blockers  | high blood pressure
+Divalproex sodium  | 6.5  | 486  | Prescription only  | Fatty acid derivative anticonvulsants  | seizures
+Donepezil  | 5.2  | 103  | Prescription only  | Cholinesterase inhibitors  | Alzheimer's disease
+Doxazosin  | 5.6  | 56  | Prescription only  | Alpha-adrenoreceptor antagonists  | hypertension
+Doxycycline  | 6.5  | 1586  | Prescription only  | Miscellaneous antimalarials  | urinary tract infections
+Doxylamine  | 6.4  | 218  | Rx and/or OTC  | Miscellaneous anxiolytics, sedatives and hypnotics  | runny nose
+Dramamine  | 8.8  | 52  | Rx and/or OTC  | Anticholinergic antiemetics  | nausea
+Dulaglutide  | 5.1  | 943  | Prescription only  | Incretin mimetics  | diabetes mellitus
+Dulcolax  | 5.2  | 1074  | Over the counter  | Laxatives  | constipation
+Duloxetine  | 6.1  | 2302  | Prescription only  | Serotonin-norepinephrine reuptake inhibitors  | depression
+Dutasteride  | 6.1  | 60  | Prescription only  | 5-alpha-reductase inhibitors  | benign prostatic hyperplasia
+Effexor XR  | 6.8  | 968  | Prescription only  | Serotonin-norepinephrine reuptake inhibitors  | major depressive disorder
+Elagolix  | 5.2  | 112  | Prescription only  | Gonadotropin-releasing hormone antagonists  | endometriosis
+Elavil  | 7.8  | 197  | Discontinued  | Tricyclic antidepressants  | depression
+Eligard  | 4.1  | 34  | Prescription only  | Gonadotropin releasing hormones  | prostate cancer
+Eliquis  | 4.9  | 204  | Prescription only  | Factor Xa inhibitors  | atrial fibrillation
+Emgality  | 4.7  | 409  | Prescription only  | CGRP inhibitors  | calcitonin-gene related peptide antagonist
+Empagliflozin  | 5.3  | 302  | Prescription only  | SGLT-2 inhibitors  | diabetes mellitus
+Enalapril  | 5.0  | 27  | Prescription only  | Angiotensin Converting Enzyme Inhibitors  | high blood pressure
+Enbrel  | 7.8  | 299  | Prescription only  | Antirheumatics  | rheumatoid arthritis
+Enoxaparin  | 7.2  | 26  | Prescription only  | Heparins  | deep vein thrombosis
+Entresto  | 4.8  | 177  | Prescription only  | Angiotensin receptor blockers and neprilysin inhibitors  | heart failure
+Entyvio  | 5.7  | 119  | Prescription only  | Selective immunosuppressants  | ulcerative colitis
+Enzalutamide  | 5.4  | 18  | Prescription only  | Antiandrogens  | prostate cancer
+Epclusa  | 7.8  | 340  | Prescription only  | Antiviral combinations  | chronic hepatitis C
+Eplerenone  | 4.8  | 10  | Prescription only  | Aldosterone receptor antagonists  | heart failure
+Epoetin alfa  | 5.1  | 9  | Prescription only  | Recombinant human erythropoietins  | kidney failure
+Ergocalciferol  | 6.7  | 31  | Rx and/or OTC  | Vitamins  | hypoparathyroidism
+Escitalopram  | 7.4  | 3621  | Prescription only  | Selective serotonin reuptake inhibitors  | major depressive disorder
+Esomeprazole  | 5.8  | 257  | Rx and/or OTC  | Proton pump inhibitors  | gastroesophageal reflux disease
+Estrace  | 7.4  | 12  | Prescription only  | Estrogens  | menopause
+Eszopiclone  | 5.6  | 408  | Prescription only  | Miscellaneous anxiolytics, sedatives and hypnotics  | insomnia
+Etanercept  | 7.9  | 312  | Prescription only  | Antirheumatics  | rheumatoid arthritis
+Etodolac  | 7.4  | 79  | Prescription only  | Nonsteroidal anti-inflammatory drugs  | osteoarthritis
+Euthyrox  | 1.6  | 156  | Prescription only  | Thyroid drugs  | hypothyroidism
+Evista  | 6.0  | 12  | Prescription only  | Hormones / antineoplastics  | osteoporosis
+Exemestane  | 4.8  | 86  | Prescription only  | Aromatase inhibitors  | breast cancers
+Ezetimibe  | 3.8  | 149  | Prescription only  | Cholesterol absorption inhibitors  | high blood cholesterol
+Famotidine  | 4.3  | 152  | Rx and/or OTC  | H2 antagonists  | Zollinger-Ellison syndrome
+Farxiga  | 4.5  | 135  | Prescription only  | SGLT-2 inhibitors  | diabetes mellitus
+Fasenra  | 7.1  | 46  | Prescription only  | Interleukin inhibitors  | severe asthma
+Faslodex  | 6.1  | 27  | Prescription only  | Estrogen receptor antagonists  | breast cancer
+Febuxostat  | 8.1  | 61  | Prescription only  | Antihyperuricemic agents  | gout
+Felodipine  | 5.1  | 17  | Prescription only  | Calcium channel blocking agents  | high blood pressure
+Femara  | 6.9  | 62  | Prescription only  | Aromatase inhibitors  | breast cancer
+Fenofibrate  | 5.8  | 67  | Prescription only  | Fibric acid derivatives  | high cholesterol
+Fentanyl  | 7.9  | 417  | Prescription only  | Opioids (narcotic analgesics)  | moderate to severe pain
+Ferrous Sulfate  | 5.3  | 41  | Rx and/or OTC  | Iron products  | iron deficiency anemia
+Fexofenadine  | 6.0  | 171  | Rx and/or OTC  | Antihistamines  | allergy symptoms
+Finasteride  | 4.5  | 279  | Prescription only  | 5-alpha-reductase inhibitors  | benign prostatic hyperplasia
+Firmagon  | 9.4  | 8  | Prescription only  | Gonadotropin-releasing hormone antagonists  | prostate cancer
+Flagyl  | 6.2  | 384  | Prescription only  | Amebicides  | trichomoniasis
+Flexeril  | 6.1  | 228  | Discontinued  | Skeletal muscle relaxants  | skeletal muscle conditions
+Flomax  | 5.9  | 283  | Prescription only  | Alpha-adrenoreceptor antagonists  | benign prostatic hyperplasia
+Flonase  | 5.0  | 168  | Prescription only  | Nasal steroids  | sneezing, runny nose,
+Florastor  | 6.0  | 16  | Over the counter  | Antidiarrheals  | diarrhea
+Flovent  | 6.3  | 34  | Prescription only  | Inhaled corticosteroids  | asthma attacks
+Flovent HFA  | 6.8  | 14  | Prescription only  | Inhaled corticosteroids  | asthma
+Fluconazole  | 6.4  | 507  | Prescription only  | Azole antifungals  | meningitis
+Fludrocortisone  | 7.5  | 40  | Prescription only  | Mineralocorticoids  | Addison's disease
+Fluocinonide  | 8.3  | 47  | Prescription only  | Topical steroids  | plaque psoriasis
+Fluoxetine  | 7.3  | 2073  | Prescription only  | Selective serotonin reuptake inhibitors  | major depressive disorder
+Fluphenazine  | 5.7  | 23  | Prescription only  | Phenothiazine antipsychotics  | schizophrenia
+Fluticasone and salmeterol  | 4.7  | 253  | Prescription only  | Bronchodilator combinations  | asthma
+Fluticasone nasal  | 5.2  | 302  | Rx and/or OTC  | Nasal steroids  | nasal congestion
+Fluvoxamine  | 6.7  | 350  | Prescription only  | Selective serotonin reuptake inhibitors  | obsessive compulsive disorder
+Focalin  | 5.7  | 131  | Prescription only  | CNS stimulants  | attention deficit hyperactivity disorder (ADHD)
+Focalin XR  | 7.1  | 110  | Prescription only  | CNS stimulants  | ADHD
+Folic Acid  | 5.3  | 9  | Rx and/or OTC  | Vitamins  | Vitamin B12 deficiency
+Fondaparinux  | 9.1  | 9  | Prescription only  | Factor Xa inhibitors  | deep vein thrombosis
+Forteo  | 5.2  | 147  | Prescription only  | Parathyroid hormone and analogs  | osteoporosis
+Fosamax  | 2.5  | 67  | Prescription only  | Bisphosphonates  | menopause
+Furosemide  | 6.5  | 109  | Prescription only  | Loop diuretics  | fluid retention (edema)
+Fycompa  | 5.5  | 59  | Prescription only  | AMPA receptor antagonists  | partial onset seizures
+Gabapentin  | 7.1  | 2422  | Prescription only  | Gamma-aminobutyric acid analogs  | partial seizures
+Galantamine  | 7.5  | 13  | Prescription only  | Cholinesterase inhibitors  | dementia
+Gas-X  | 7.7  | 19  | Rx and/or OTC  | Miscellaneous GI agents  | Gas
+Gemfibrozil  | 6.2  | 26  | Prescription only  | Fibric acid derivatives  | atherosclerosis
+Gemtesa  | 6.2  | 27  | Prescription only  | Urinary antispasmodics  | overactive bladder
+Genvoya  | 7.2  | 123  | Prescription only  | Antiviral combinations  | human immunodeficiency virus (HIV)
+Gilenya  | 7.0  | 92  | Prescription only  | Selective immunosuppressants  | multiple sclerosis
+Gleevec  | 8.6  | 34  | Prescription only  | BCR-ABL tyrosine kinase inhibitors  | leukemia
+Glimepiride  | 6.6  | 71  | Prescription only  | Sulfonylureas  | diabetes mellitus
+Glipizide  | 6.1  | 68  | Prescription only  | Sulfonylureas  | diabetes mellitus
+Glucophage  | 6.9  | 40  | Discontinued  | Non-sulfonylureas  | type 2 diabetes mellitus
+Glucophage XR  | 7.8  | 10  | Discontinued  | Non-sulfonylureas  | diabetes mellitus
+Glucosamine & Chondroitin with MSM  | 8.0  | 15  | Over the counter  | Nutraceutical products  | osteoarthritis
+Glucotrol  | 7.4  | 9  | Prescription only  | Sulfonylureas  | diabetes mellitus
+Glyburide  | 7.2  | 9  | Prescription only  | Sulfonylureas  | type 2 diabetes mellitus
+Glycopyrrolate  | 8.9  | 17  | Prescription only  | Anticholinergic bronchodilators  | drooling
+Glyxambi  | 6.5  | 22  | Prescription only  | Antidiabetic combinations  | type 2 diabetes mellitus
+GoLYTELY  | 6.3  | 74  | Prescription only  | Laxatives  | colonoscopy
+Gralise  | 6.5  | 11  | Prescription only  | Gamma-aminobutyric acid analogs  | pain from damaged nerves (neuropathic pain)
+Granisetron  | 6.5  | 18  | Prescription only  | 5HT3 receptor antagonists  | nausea
+Griseofulvin  | 4.9  | 15  | Prescription only  | Miscellaneous antifungals  | ringworm
+Guanfacine  | 5.9  | 295  | Prescription only  | Antiadrenergic agents, centrally acting  | high blood pressure
+Halcion  | 7.9  | 31  | Prescription only  | Benzodiazepines  | insomnia
+Haldol  | 4.3  | 60  | Prescription only  | Miscellaneous antipsychotic agents  | schizophrenia
+Halobetasol  | 8.3  | 26  | Prescription only  | Topical steroids  | plaque psoriasis
+Haloperidol  | 4.1  | 185  | Prescription only  | Miscellaneous antipsychotic agents  | schizophrenia
+Harvoni  | 8.6  | 396  | Prescription only  | Antiviral combinations  | HIV
+Herceptin  | 8.8  | 10  | Prescription only  | HER2 inhibitors  | breast cancer
+Horizant  | 7.6  | 35  | Prescription only  | Gamma-aminobutyric acid analogs  | nerve pain (postherpetic neuralgia)
+Humalog  | 6.8  | 19  | Prescription only  | Insulin  | diabetes mellitus
+Humira  | 6.2  | 655  | Prescription only  | Antirheumatics  | rheumatoid arthritis
+Hydralazine  | 2.8  | 82  | Prescription only  | Vasodilators  | high blood pressure
+Hydrea  | 7.2  | 8  | Prescription only  | Antimetabolites  | chronic myeloid leukemia
+Hydrochlorothiazide  | 5.2  | 178  | Prescription only  | Thiazide diuretics  | high blood pressure
+Hydrochlorothiazide and lisinopril  | 5.6  | 75  | Prescription only  | ACE inhibitors with thiazides  | high blood pressure
+Hydrochlorothiazide and losartan  | 6.3  | 59  | Prescription only  | Angiotensin II inhibitors with thiazides  | high blood pressure
+Hydrochlorothiazide and olmesartan  | 6.2  | 31  | Prescription only  | Angiotensin II inhibitors with thiazides  | high blood pressure
+Hydrochlorothiazide and telmisartan  | 6.9  | 18  | Prescription only  | Angiotensin II inhibitors with thiazides  | high blood pressure
+Hydrochlorothiazide and triamterene  | 5.9  | 64  | Prescription only  | Potassium sparing diuretics with thiazides  | edema
+Hydrochlorothiazide and valsartan  | 6.8  | 24  | Prescription only  | Angiotensin II inhibitors with thiazides  | high blood pressure
+Hydrocodone  | 5.6  | 192  | Prescription only  | Antitussives  | severe pain
+Hydrocodone and ibuprofen  | 8.6  | 74  | Prescription only  | Narcotic analgesic combinations  | pain
+Hydrocortisone  | 7.5  | 26  | Prescription only  | Glucocorticoids  | ulcerative colitis
+Hydromorphone  | 8.0  | 439  | Prescription only  | Opioids (narcotic analgesics)  | pain
+Hydroxychloroquine  | 6.5  | 343  | Prescription only  | Antimalarial quinolines  | malaria
+Hydroxyurea  | 6.7  | 35  | Prescription only  | Antimetabolites  | chronic myeloid leukemia
+Hyoscyamine  | 7.8  | 102  | Prescription only  | Anticholinergics / antispasmodics  | peptic ulcer
+Hyzaar  | 6.6  | 21  | Prescription only  | Angiotensin II inhibitors with thiazides  | high blood pressure
+Ibrance  | 6.6  | 69  | Prescription only  | CDK 4/6 inhibitors  | breast cancer
+Ibuprofen  | 7.3  | 224  | Rx and/or OTC  | Nonsteroidal anti-inflammatory drugs  | headache
+Imatinib  | 8.8  | 42  | Prescription only  | BCR-ABL tyrosine kinase inhibitors  | leukemia
+Imbruvica  | 5.4  | 45  | Prescription only  | BTK inhibitors  | chronic lymphocytic leukemia
+Imdur  | 6.1  | 19  | Discontinued  | Antianginal agents  | angina attacks
+Imipramine  | 6.9  | 71  | Prescription only  | Tricyclic antidepressants  | depression
+Imitrex  | 7.8  | 200  | Prescription only  | Antimigraine agents  | headache
+Imodium A-D  | 8.4  | 17  | Rx and/or OTC  | Antidiarrheals  | diarrhea
+Imuran  | 5.9  | 64  | Prescription only  | Antirheumatics  | rheumatoid arthritis
+Incruse Ellipta  | 2.8  | 29  | Prescription only  | Anticholinergic bronchodilators  | COPD (chronic obstructive pulmonary disease
+Indapamide  | 4.5  | 20  | Prescription only  | Thiazide diuretics  | edema
+Inderal  | 7.6  | 73  | Discontinued  | Group II antiarrhythmics  | angina
+Indomethacin  | 7.7  | 203  | Prescription only  | Nonsteroidal anti-inflammatory drugs  | osteoarthritis
+Insulin Aspart  | 5.7  | 37  | Prescription only  | Insulin  | diabetes mellitus
+Insulin Detemir  | 5.7  | 47  | Prescription only  | Insulin  | diabetes mellitus
+Insulin glargine  | 4.0  | 275  | Prescription only  | Insulin  | diabetes mellitus
+Insulin Lispro  | 3.7  | 86  | Prescription only  | Insulin  | diabetes mellitus
+Insulin Regular  | 7.6  | 21  | Rx and/or OTC  | Insulin  | diabetes mellitus
+Intuniv  | 6.2  | 155  | Prescription only  | Antiadrenergic agents, centrally acting  | attention deficit hyperactivity disorder (ADHD)
+Invega  | 4.7  | 209  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Invega Sustenna  | 3.6  | 174  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Invokana  | 5.8  | 257  | Prescription only  | SGLT-2 inhibitors  | diabetes mellitus
+Irbesartan  | 4.5  | 98  | Prescription only  | Angiotensin receptor blockers  | high blood pressure
+Isoniazid  | 5.5  | 28  | Prescription only  | Hydrazide derivatives  | tuberculosis
+Isosorbide  | 5.0  | 88  | Prescription only  | Antianginal agents  | angina attacks
+Isotretinoin  | 8.0  | 1038  | Prescription only  | Miscellaneous antineoplastics  | acne
+Ivabradine  | 6.3  | 16  | Prescription only  | Miscellaneous cardiovascular agents  | heart failure
+Jakafi  | 6.2  | 18  | Prescription only  | Multikinase inhibitors  | polycythemia vera
+Jalyn  | 6.1  | 20  | Prescription only  | 5-alpha-reductase inhibitors  | benign prostatic hyperplasia (BPH)
+Janumet  | 6.0  | 64  | Prescription only  | Antidiabetic combinations  | type 2 diabetes mellitus
+Januvia  | 4.6  | 125  | Prescription only  | Dipeptidyl peptidase 4 inhibitors  | type 2 diabetes mellitus
+Jardiance  | 5.3  | 288  | Prescription only  | SGLT-2 inhibitors  | diabetes mellitus
+Jentadueto  | 6.0  | 16  | Prescription only  | Antidiabetic combinations  | type 2 diabetes mellitus
+Jolivette  | 5.0  | 111  | Discontinued  | Contraceptives  | birth control
+Jublia  | 5.5  | 222  | Prescription only  | Topical antifungals  | onychomycosis
+Kadian  | 8.1  | 48  | Prescription only  | Opioids (narcotic analgesics)  | moderate to severe pain
+Kapvay  | 7.4  | 18  | Prescription only  | Antiadrenergic agents, centrally acting  | attention deficit hyperactivity disorder (ADHD)
+Keflex  | 7.3  | 86  | Prescription only  | First generation cephalosporins  | ear infections
+Keppra  | 5.7  | 289  | Prescription only  | Pyrrolidine anticonvulsants  | epilepsy
+Kesimpta  | 6.0  | 30  | Prescription only  | CD20 monoclonal antibodies  | multiple sclerosis (MS)
+Ketamine  | 4.9  | 144  | Prescription only  | General anesthetics  | pain
+Ketoconazole  | 6.9  | 25  | Prescription only  | Azole antifungals  | liver transplant
+Ketoconazole topical  | 6.9  | 40  | Rx and/or OTC  | Topical antifungals  | athlete's foot
+Ketoprofen  | 9.4  | 28  | Rx and/or OTC  | Nonsteroidal anti-inflammatory drugs  | pain
+Ketorolac ophthalmic  | 7.5  | 9  | Prescription only  | Ophthalmic anti-inflammatory agents  | pain
+Ketotifen ophthalmic  | 7.0  | 21  | Over the counter  | Ophthalmic antihistamines and decongestants  | runny nose
+Kevzara  | 5.5  | 20  | Prescription only  | Antirheumatics  | rheumatoid arthritis
+Kisqali  | 8.8  | 12  | Prescription only  | CDK 4/6 inhibitors  | breast cancer
+Klonopin  | 8.5  | 725  | Prescription only  | Benzodiazepine anticonvulsants  | seizures
+Klor-Con  | 6.4  | 11  | Rx and/or OTC  | Minerals and electrolytes  | hypokalemia
+Kombiglyze XR  | 5.0  | 17  | Prescription only  | Antidiabetic combinations  | type 2 diabetes mellitus
+Labetalol  | 5.8  | 21  | Prescription only  | Non-cardioselective beta blockers  | high blood pressure
+Lactulose  | 7.5  | 132  | Prescription only  | Laxatives  | constipation
+Lamictal  | 7.9  | 709  | Prescription only  | Triazine anticonvulsants  | seizures
+Lamotrigine  | 7.7  | 1627  | Prescription only  | Triazine anticonvulsants  | seizures
+Lansoprazole  | 6.5  | 136  | Rx and/or OTC  | Proton pump inhibitors  | erosive esophagitis
+Lantus  | 6.6  | 40  | Prescription only  | Insulin  | diabetes mellitus
+Lasix  | 6.2  | 53  | Prescription only  | Loop diuretics  | edema
+Latuda  | 6.3  | 805  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Leflunomide  | 5.1  | 104  | Prescription only  | Antirheumatics  | rheumatoid arthritis
+Letrozole  | 6.4  | 328  | Prescription only  | Aromatase inhibitors  | breast cancer
+Leuprolide  | 5.6  | 359  | Prescription only  | Gonadotropin releasing hormones  | prostate cancer
+Levaquin  | 5.2  | 414  | Prescription only  | Quinolones  | plague
+Levemir  | 5.6  | 42  | Prescription only  | Insulin  | diabetes mellitus
+Levocetirizine  | 5.5  | 333  | Rx and/or OTC  | Antihistamines  | runny nose
+Levofloxacin  | 5.1  | 724  | Prescription only  | Quinolones  | plague
+Levothyroxine  | 5.1  | 839  | Prescription only  | Thyroid drugs  | hypothyroidism (low thyroid hormone)
+Lialda  | 7.0  | 102  | Prescription only  | 5-aminosalicylates  | ulcerative colitis
+Liletta  | 5.5  | 622  | Prescription only  | Contraceptives  | heavy menstrual bleeding
+Linzess  | 6.6  | 830  | Prescription only  | Guanylate cyclase-C agonists  | constipation
+Liraglutide  | 7.6  | 2246  | Prescription only  | Incretin mimetics  | diabetes mellitus
+Lisdexamfetamine  | 7.4  | 980  | Prescription only  | CNS stimulants  | nerves
+Lisinopril  | 5.0  | 608  | Prescription only  | Angiotensin Converting Enzyme Inhibitors  | high blood pressure
+Lithium  | 7.2  | 462  | Prescription only  | Antimanic agents  | bipolar disorder
+Loestrin 24 Fe   | 5.6  | 1526  | Prescription only  | Contraceptives  | birth control pill
+Lofexidine  | 6.2  | 37  | Prescription only  | Antiadrenergic agents, centrally acting  | opioid withdrawal
+Lomotil  | 7.9  | 45  | Prescription only  | Antidiarrheals  | diarrhea
+Loperamide  | 8.5  | 77  | Rx and/or OTC  | Antidiarrheals  | diarrhea
+Loratadine  | 4.7  | 127  | Rx and/or OTC  | Antihistamines  | hay fever
+Lorazepam  | 7.9  | 993  | Prescription only  | Benzodiazepine anticonvulsants  | anxiety
+Losartan  | 4.5  | 539  | Prescription only  | Angiotensin receptor blockers  | high blood pressure (hypertension)
+Lovastatin  | 6.4  | 18  | Prescription only  | Statins  | heart attack
+Lovenox  | 6.9  | 19  | Prescription only  | Heparins  | deep vein thrombosis (DVT)
+Lunesta  | 5.8  | 314  | Prescription only  | Miscellaneous anxiolytics, sedatives and hypnotics  | insomnia
+Lupron Depot  | 5.8  | 204  | Prescription only  | Gonadotropin releasing hormones  | prostate cancer
+Lurasidone  | 6.3  | 892  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Lyrica  | 6.4  | 910  | Prescription only  | Gamma-aminobutyric acid analogs  | seizures
+Macrobid  | 4.5  | 793  | Prescription only  | Urinary anti-infectives  | urinary tract infections
+Magnesium oxide  | 8.0  | 19  | Rx and/or OTC  | Minerals and electrolytes  | nerves
+Mavyret  | 8.5  | 391  | Prescription only  | Antiviral combinations  | hepatitis C
+Medrol  | 5.5  | 13  | Prescription only  | Glucocorticoids  | lupus
+Memantine  | 5.1  | 74  | Prescription only  | Miscellaneous central nervous system agents  | Alzheimer's disease
+Mesalamine  | 7.0  | 392  | Prescription only  | 5-aminosalicylates  | ulcerative colitis
+Metamucil  | 6.5  | 65  | Over the counter  | Laxatives  | constipation
+Methadone  | 8.7  | 583  | Prescription only  | Opioids (narcotic analgesics)  | withdrawal symptoms
+Methimazole  | 5.5  | 101  | Prescription only  | Antithyroid agents  | hyperthyroidism
+Methocarbamol  | 6.3  | 286  | Prescription only  | Skeletal muscle relaxants  | tetanus
+Methotrexate  | 6.6  | 277  | Prescription only  | Antimetabolites  | leukemia
+Methylphenidate  | 7.1  | 999  | Prescription only  | CNS stimulants  | attention deficit hyperactivity disorder (ADHD)
+Methylprednisolone  | 7.0  | 441  | Prescription only  | Glucocorticoids  | arthritis
+Metoclopramide  | 3.9  | 498  | Prescription only  | GI stimulants  | heartburn
+Metoprolol  | 5.7  | 603  | Prescription only  | Cardioselective beta blockers  | angina
+Metronidazole  | 6.1  | 2369  | Prescription only  | Amebicides  | trichomoniasis
+Midodrine  | 6.1  | 38  | Prescription only  | Miscellaneous cardiovascular agents  | low blood pressure
+Mirtazapine  | 6.7  | 1879  | Prescription only  | Tetracyclic antidepressants  | major depressive disorder
+Mobic  | 7.4  | 133  | Prescription only  | Nonsteroidal anti-inflammatory drugs  | rheumatoid arthritis
+Modafinil  | 7.2  | 479  | Prescription only  | CNS stimulants  | wakefulness
+Montelukast  | 5.4  | 537  | Prescription only  | Leukotriene modifiers  | asthma
+Morphine  | 7.5  | 366  | Prescription only  | Opioids (narcotic analgesics)  | moderate to severe pain
+Mounjaro  | 6.1  | 88  | Prescription only  | Incretin mimetics  | type 2 diabetes
+Mucinex  | 6.3  | 144  | Rx and/or OTC  | Expectorants  | common cold
+Mupirocin topical  | 6.3  | 45  | Prescription only  | Topical antibiotics  | impetigo
+Myrbetriq  | 4.8  | 258  | Prescription only  | Urinary antispasmodics  | overactive bladder
+Nabumetone  | 5.7  | 90  | Prescription only  | Nonsteroidal anti-inflammatory drugs  | pain
+Nadolol  | 8.1  | 40  | Prescription only  | Non-cardioselective beta blockers  | angina
+Naloxone  | 7.5  | 26  | Prescription only  | Antidotes  | opioid overdose
+Naltrexone  | 8.0  | 552  | Prescription only  | Antidotes  | alcohol use disorder
+Namenda  | 5.0  | 28  | Prescription only  | Miscellaneous central nervous system agents  | Alzheimer's
+Naprosyn  | 7.2  | 34  | Rx and/or OTC  | Nonsteroidal anti-inflammatory drugs  | rheumatoid arthritis
+Naproxen  | 6.8  | 660  | Rx and/or OTC  | Nonsteroidal anti-inflammatory drugs  | arthritis
+Nebivolol  | 6.1  | 258  | Prescription only  | Cardioselective beta blockers  | high blood pressure
+Nefazodone  | 9.4  | 157  | Prescription only  | Phenylpiperazine antidepressants  | depression
+Nerlynx  | 5.3  | 16  | Prescription only  | EGFR inhibitors  | breast cancer
+Neulasta  | 5.4  | 69  | Prescription only  | Colony stimulating factors  | neutropenia
+Neupro  | 7.6  | 63  | Prescription only  | Dopaminergic antiparkinsonism agents  | Parkinson's disease
+Neurontin  | 7.3  | 193  | Prescription only  | Gamma-aminobutyric acid analogs  | neuropathic pain (nerve pain)
+Nexium  | 6.0  | 205  | Prescription only  | Proton pump inhibitors  | gastroesophageal reflux disease
+Nitrofurantoin  | 4.3  | 1783  | Prescription only  | Urinary anti-infectives  | urinary tract infections
+Norco  | 6.4  | 358  | Discontinued  | Narcotic analgesic combinations  | pain
+Norethindrone  | 4.8  | 1496  | Prescription only  | Contraceptives  | birth control
+Norflex  | 7.0  | 34  | Discontinued  | Skeletal muscle relaxants  | pain
+Nortriptyline  | 7.3  | 526  | Prescription only  | Tricyclic antidepressants  | depression
+Norvasc  | 4.5  | 104  | Prescription only  | Calcium channel blocking agents  | (angina)
+NovoLog  | 5.3  | 26  | Prescription only  | Insulin  | diabetes mellitus
+NP Thyroid  | 3.3  | 235  | Prescription only  | Thyroid drugs  | low thyroid
+Nucynta  | 6.2  | 271  | Prescription only  | Opioids (narcotic analgesics)  | moderate to severe pain
+Nurtec ODT  | 5.3  | 201  | Prescription only  | CGRP inhibitors  | migraines
+Ocrevus  | 4.4  | 141  | Prescription only  | CD20 monoclonal antibodies  | multiple sclerosis
+Odefsey  | 8.4  | 10  | Prescription only  | Antiviral combinations  | Human Immunodeficiency Virus-1 (HIV-1)
+Ofloxacin  | 4.7  | 13  | Prescription only  | Quinolones  | pelvic inflammatory disease
+Olanzapine  | 5.8  | 987  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Olaparib  | 7.5  | 16  | Prescription only  | PARP inhibitors  | cancer
+Olmesartan  | 6.4  | 186  | Prescription only  | Angiotensin receptor blockers  | high blood pressure
+Olopatadine ophthalmic  | 5.3  | 131  | Rx and/or OTC  | Ophthalmic antihistamines and decongestants  | allergies
+Olux  | 9.2  | 12  | Prescription only  | Topical steroids  | plaque psoriasis
+Omalizumab  | 7.6  | 227  | Prescription only  | Selective immunosuppressants  | asthma
+Omega-3 polyunsaturated fatty acids  | 5.9  | 42  | Rx and/or OTC  | Nutraceutical products  | heart attack
+Ondansetron  | 7.7  | 462  | Prescription only  | 5HT3 receptor antagonists  | chemotherapy
+Onfi  | 5.8  | 11  | Prescription only  | Benzodiazepine anticonvulsants  | seizures
+Onglyza  | 5.9  | 15  | Prescription only  | Dipeptidyl peptidase 4 inhibitors  | type 2 diabetes mellitus
+Orencia  | 5.9  | 61  | Prescription only  | Antirheumatics  | rheumatoid arthritis
+Orphenadrine  | 6.8  | 77  | Prescription only  | Skeletal muscle relaxants  | pain
+Oseltamivir  | 6.0  | 588  | Prescription only  | Neuraminidase inhibitors  | influenza
+Osimertinib  | 6.4  | 28  | Prescription only  | EGFR inhibitors  | non-small cell lung cancer
+Otezla  | 5.0  | 409  | Prescription only  | Antirheumatics  | psoriatic arthritis
+Oxazepam  | 8.1  | 77  | Prescription only  | Benzodiazepines  | anxiety
+Oxcarbazepine  | 7.6  | 343  | Prescription only  | Dibenzazepine anticonvulsants  | seizures
+Oxybutynin  | 6.6  | 424  | Rx and/or OTC  | Urinary antispasmodics  | overactive bladder
+Oxycodone  | 7.0  | 1105  | Prescription only  | Opioids (narcotic analgesics)  | moderate to severe pain
+Oxycontin  | 8.6  | 291  | Prescription only  | Opioids (narcotic analgesics)  | severe pain
+Oxymetazoline nasal  | 4.6  | 217  | Over the counter  | Nasal antihistamines and decongestants  | nasal congestion
+Ozempic  | 5.8  | 755  | Prescription only  | Incretin mimetics  | type 2 diabetes
+Paclitaxel  | 7.2  | 10  | Prescription only  | Mitotic inhibitors  | cancer, ovarian
+Pantoprazole  | 4.9  | 405  | Prescription only  | Proton pump inhibitors  | gastroesophageal reflux disease
+Paroxetine  | 7.1  | 1469  | Prescription only  | Selective serotonin reuptake inhibitors  | depression
+Paxil  | 7.0  | 926  | Prescription only  | Selective serotonin reuptake inhibitors  | depression
+Pentasa  | 7.7  | 86  | Prescription only  | 5-aminosalicylates  | ulcerative colitis
+Pepcid  | 6.6  | 9  | Prescription only  | H2 antagonists  | Zollinger-Ellison syndrome
+Percocet  | 8.6  | 230  | Prescription only  | Narcotic analgesic combinations  | pain
+Phenazopyridine  | 6.9  | 176  | Rx and/or OTC  | Miscellaneous genitourinary tract agents  | pain
+Phenobarbital  | 8.7  | 30  | Prescription only  | Barbiturate anticonvulsants  | seizures
+Phentermine  | 8.7  | 2980  | Prescription only  | Anorexiants  | obesity
+Phenylephrine  | 6.0  | 19  | Rx and/or OTC  | Decongestants  | common cold
+Phenytoin  | 7.3  | 108  | Prescription only  | Group I antiarrhythmics  | seizures
+Pioglitazone  | 4.6  | 50  | Prescription only  | Thiazolidinediones  | diabetes mellitus
+Plaquenil  | 6.5  | 156  | Prescription only  | Antimalarial quinolines  | malaria
+Plavix  | 7.4  | 64  | Prescription only  | Platelet aggregation inhibitors  | stroke
+Polyethylene glycol 3350  | 7.1  | 313  | Rx and/or OTC  | Laxatives  | constipation
+Potassium Chloride  | 6.0  | 30  | Rx and/or OTC  | Minerals and electrolytes  | low blood levels of potassium (hypokalemia)
+Pradaxa  | 7.1  | 94  | Prescription only  | Thrombin inhibitors  | atrial fibrillation
+Praluent  | 5.9  | 181  | Prescription only  | PCSK9 inhibitors  | hypercholesterolemia
+Pramipexole  | 6.7  | 225  | Prescription only  | Dopaminergic antiparkinsonism agents  | Parkinson's disease
+Pravastatin  | 4.2  | 70  | Prescription only  | Statins  | heart attack
+Prazosin  | 6.8  | 259  | Prescription only  | Antiadrenergic agents, peripherally acting  | high blood pressure
+Prednisolone  | 6.3  | 45  | Prescription only  | Glucocorticoids  | lupus
+Pregabalin  | 6.7  | 1562  | Prescription only  | Gamma-aminobutyric acid analogs  | seizures
+Premarin  | 7.6  | 77  | Prescription only  | Estrogens  | menopause
+Prilosec  | 6.7  | 50  | Prescription only  | Proton pump inhibitors  | gastroesophageal reflux disease (GERD)
+Primidone  | 5.9  | 102  | Prescription only  | Barbiturate anticonvulsants  | seizures
+Pristiq  | 6.9  | 1088  | Prescription only  | Serotonin-norepinephrine reuptake inhibitors  | major depressive disorder
+Promacta  | 6.2  | 11  | Prescription only  | Platelet-stimulating agents  | immune thrombocytopenic purpura
+Promethazine  | 7.2  | 360  | Prescription only  | Antihistamines  | allergy symptoms
+Promethazine DM  | 4.6  | 25  | Prescription only  | Upper respiratory combinations  | runny nose
+Propranolol  | 8.2  | 1273  | Prescription only  | Group II antiarrhythmics  | angina
+Protonix  | 7.2  | 80  | Prescription only  | Proton pump inhibitors  | gastroesophageal reflux disease
+Prozac  | 7.2  | 1162  | Prescription only  | Selective serotonin reuptake inhibitors  | major depressive disorder
+QNASL  | 7.5  | 22  | Prescription only  | Nasal steroids  | nasal allergy symptoms
+Qsymia  | 7.7  | 557  | Prescription only  | Anorexiants  | obesity
+Quazepam  | 9.8  | 13  | Prescription only  | Benzodiazepines  | insomnia
+Quetiapine  | 7.2  | 2077  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Quillivant XR  | 5.4  | 21  | Prescription only  | CNS stimulants  | attention deficit hyperactivity disorder (ADHD)
+Quinapril  | 5.6  | 11  | Prescription only  | Angiotensin Converting Enzyme Inhibitors  | high blood pressure
+Quinine  | 8.9  | 20  | Prescription only  | Antimalarial quinolines  | malaria
+Qvar Redihaler  | 3.5  | 182  | Prescription only  | Inhaled corticosteroids  | asthma
+Rabeprazole  | 8.2  | 81  | Prescription only  | Proton pump inhibitors  | gastroesophageal reflux disease
+Raloxifene  | 5.2  | 18  | Prescription only  | Hormones / antineoplastics  | osteoporosis
+Ramelteon  | 4.1  | 145  | Prescription only  | Miscellaneous anxiolytics, sedatives and hypnotics  | insomnia
+Ramipril  | 5.7  | 121  | Prescription only  | Angiotensin Converting Enzyme Inhibitors  | high blood pressure (hypertension)
+Ranexa  | 7.0  | 67  | Prescription only  | Antianginal agents  | angina
+Ranitidine  | 7.3  | 161  | Discontinued  | H2 antagonists  | gastroesophageal reflux disease (GERD)
+Ranolazine  | 7.1  | 82  | Prescription only  | Antianginal agents  | angina
+Reclast  | 5.2  | 219  | Prescription only  | Bisphosphonates  | osteoporosis
+Reglan  | 3.7  | 333  | Prescription only  | GI stimulants  | heartburn
+Relafen  | 6.9  | 36  | Discontinued  | Nonsteroidal anti-inflammatory drugs  | rheumatoid arthritis
+Remeron  | 7.2  | 294  | Prescription only  | Tetracyclic antidepressants  | Major Depressive Disorder (MDD)
+Remicade  | 7.1  | 183  | Prescription only  | Antirheumatics  | rheumatoid arthritis
+Repatha  | 4.4  | 465  | Prescription only  | PCSK9 inhibitors  | high cholesterol
+Requip  | 6.0  | 120  | Discontinued  | Dopaminergic antiparkinsonism agents  | Parkinson's disease
+Restoril  | 6.8  | 107  | Prescription only  | Benzodiazepines  | insomnia
+Revlimid  | 6.9  | 20  | Prescription only  | Miscellaneous antineoplastics  | multiple myeloma
+Rexulti  | 6.4  | 401  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Reyvow  | 4.5  | 18  | Prescription only  | Antimigraine agents  | migraine
+Rifampin  | 6.2  | 21  | Prescription only  | Rifamycin derivatives  | tuberculosis
+Rifaximin  | 6.6  | 145  | Prescription only  | Miscellaneous antibiotics  | diarrhea
+Rinvoq  | 5.9  | 82  | Prescription only  | Antirheumatics  | rheumatoid arthritis
+Risedronate  | 2.7  | 74  | Prescription only  | Bisphosphonates  | osteoporosis
+Risperdal  | 6.0  | 238  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Risperidone  | 5.4  | 688  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Ritalin  | 7.0  | 200  | Prescription only  | CNS stimulants  | attention deficit hyperactivity disorder (ADHD)
+Rivaroxaban  | 5.4  | 235  | Prescription only  | Factor Xa inhibitors  | venous thromboembolism
+Rivastigmine  | 5.8  | 37  | Prescription only  | Cholinesterase inhibitors  | dementia
+Rizatriptan  | 8.3  | 316  | Prescription only  | Antimigraine agents  | headache
+Robaxin  | 6.4  | 77  | Prescription only  | Skeletal muscle relaxants  | tetanus
+Rocephin  | 8.5  | 118  | Discontinued  | Third generation cephalosporins  | pneumonia
+Roflumilast  | 7.0  | 65  | Prescription only  | Selective phosphodiesterase-4 inhibitors  | COPD
+Ropinirole  | 6.4  | 315  | Prescription only  | Dopaminergic antiparkinsonism agents  | Parkinson's disease
+Rosuvastatin  | 5.1  | 231  | Prescription only  | Statins  | high cholesterol
+Rybelsus  | 5.7  | 160  | Prescription only  | Incretin mimetics  | type 2 diabetes mellitus
+Rytary  | 5.8  | 26  | Prescription only  | Dopaminergic antiparkinsonism agents  | Parkinson's disease
+Saxenda  | 7.5  | 1383  | Prescription only  | Incretin mimetics  | obese
+secukinumab  | 6.0  | 211  | Prescription only  | Interleukin inhibitors  | psoriasis
+Selegiline  | 7.8  | 63  | Prescription only  | Dopaminergic antiparkinsonism agents  | Parkinson's disease
+Senna  | 5.2  | 286  | Rx and/or OTC  | Laxatives  | constipation
+Senokot  | 5.3  | 156  | Rx and/or OTC  | Laxatives  | constipation
+Seroquel  | 7.0  | 646  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Sertraline  | 7.2  | 4134  | Prescription only  | Selective serotonin reuptake inhibitors  | premenstrual dysphoric disorder
+Sevelamer  | 5.4  | 15  | Prescription only  | Phosphate binders  | hypocalcemia
+Shingrix  | 5.2  | 602  | Prescription only  | Viral vaccines  | Herpes zoster
+Sildenafil  | 8.2  | 484  | Prescription only  | Agents for pulmonary hypertension  | erectile dysfunction
+Simethicone  | 7.2  | 43  | Rx and/or OTC  | Miscellaneous GI agents  | gas
+Simponi  | 6.2  | 100  | Prescription only  | TNF alfa inhibitors  | rheumatoid arthritis
+Simvastatin  | 4.8  | 127  | Prescription only  | Statins  | cholesterol
+Sinemet  | 7.7  | 29  | Prescription only  | Dopaminergic antiparkinsonism agents  | Parkinson's disease
+Singulair  | 6.5  | 204  | Prescription only  | Leukotriene modifiers  | asthma
+Sitagliptin  | 4.6  | 134  | Prescription only  | Dipeptidyl peptidase 4 inhibitors  | diabetes mellitus
+Skyrizi  | 7.6  | 18  | Prescription only  | Interleukin inhibitors  | plaque psoriasis
+Sofosbuvir  | 7.6  | 50  | Prescription only  | Miscellaneous antivirals  | chronic hepatitis C
+Solifenacin  | 5.4  | 187  | Prescription only  | Urinary antispasmodics  | multiple sclerosis
+Soliqua  | 4.3  | 15  | Prescription only  | Antidiabetic combinations  | type 2 diabetes
+Soma  | 9.1  | 196  | Prescription only  | Skeletal muscle relaxants  | skeletal muscle conditions
+Sotalol  | 6.5  | 54  | Prescription only  | Group III antiarrhythmics  | atrial fibrillation
+Sovaldi  | 7.7  | 47  | Prescription only  | Miscellaneous antivirals  | chronic hepatitis C
+Spiriva  | 5.7  | 115  | Prescription only  | Anticholinergic bronchodilators  | COPD (chronic obstructive pulmonary disease)
+Spironolactone  | 6.9  | 662  | Prescription only  | Aldosterone receptor antagonists  | heart failure
+Sprycel  | 7.4  | 20  | Prescription only  | BCR-ABL tyrosine kinase inhibitors  | chronic myelogenous leukemia
+Stelara  | 7.4  | 225  | Prescription only  | Interleukin inhibitors  | plaque psoriasis
+Stribild  | 9.5  | 90  | Prescription only  | Antiviral combinations  | human immunodeficiency virus (HIV)
+Suboxone  | 8.7  | 706  | Prescription only  | Narcotic analgesic combinations  | narcotic (opiate) addiction
+Sucralfate  | 6.4  | 213  | Prescription only  | Miscellaneous GI agents  | duodenal ulcer
+Sulfamethoxazole and trimethoprim  | 4.9  | 1678  | Prescription only  | Sulfonamides  | traveler's diarrhea
+Sulindac  | 6.5  | 27  | Prescription only  | Nonsteroidal anti-inflammatory drugs  | pain
+Sutent  | 7.5  | 30  | Prescription only  | Multikinase inhibitors  | tumors of the stomach
+Symbicort  | 6.5  | 214  | Prescription only  | Bronchodilator combinations  | asthma
+Synthroid  | 6.1  | 184  | Prescription only  | Thyroid drugs  | hypothyroidism (low thyroid hormone)
+Tadalafil  | 8.4  | 725  | Prescription only  | Agents for pulmonary hypertension  | erectile dysfunction (impotence)
+Taltz  | 6.8  | 175  | Prescription only  | Interleukin inhibitors  | plaque psoriasis
+Tamiflu  | 5.9  | 557  | Prescription only  | Neuraminidase inhibitors  | influenza
+Tamoxifen  | 5.5  | 93  | Prescription only  | Hormones / antineoplastics  | breast cancer
+Tamsulosin  | 5.7  | 527  | Prescription only  | Alpha-adrenoreceptor antagonists  | benign prostatic hyperplasia
+Tazarotene  | 7.3  | 62  | Prescription only  | Topical acne agents  | acne vulgaris
+Tazorac  | 7.8  | 38  | Prescription only  | Topical acne agents  | acne vulgaris
+Tegretol  | 6.9  | 123  | Prescription only  | Dibenzazepine anticonvulsants  | seizures
+Telmisartan  | 5.4  | 84  | Prescription only  | Angiotensin receptor blockers  | high blood pressure
+Temazepam  | 6.4  | 433  | Prescription only  | Benzodiazepines  | insomnia
+Tenormin  | 8.0  | 26  | Prescription only  | Cardioselective beta blockers  | angina
+Tetracycline  | 6.5  | 62  | Prescription only  | Tetracyclines  | gonorrhea
+Theophylline  | 8.1  | 16  | Prescription only  | Methylxanthines  | asthma
+Tizanidine  | 6.2  | 358  | Prescription only  | Skeletal muscle relaxants  | muscle tone
+Tolterodine  | 6.5  | 72  | Prescription only  | Urinary antispasmodics  | urinary frequency
+Topamax  | 6.2  | 623  | Prescription only  | Carbonic anhydrase inhibitor anticonvulsants  | migraine
+Topiramate  | 6.3  | 1281  | Prescription only  | Carbonic anhydrase inhibitor anticonvulsants  | seizures
+Toprol XL  | 6.5  | 59  | Prescription only  | Cardioselective beta blockers  | angina
+Toradol  | 6.5  | 257  | Discontinued  | Nonsteroidal anti-inflammatory drugs  | pain
+Tradjenta  | 3.0  | 61  | Prescription only  | Dipeptidyl peptidase 4 inhibitors  | type 2 diabetes mellitus
+Tranexamic acid  | 6.9  | 259  | Prescription only  | Miscellaneous coagulation modifiers  | hemophilia
+Trazodone  | 6.3  | 1364  | Prescription only  | Phenylpiperazine antidepressants  | major depressive disorder
+Trelegy Ellipta  | 5.8  | 132  | Prescription only  | Bronchodilator combinations  | COPD (chronic obstructive pulmonary disease)
+Tremfya  | 6.7  | 59  | Prescription only  | Interleukin inhibitors  | plaque psoriasis
+Triamterene  | 6.1  | 9  | Prescription only  | Potassium-sparing diuretics  | fluid retention (edema)
+Trileptal  | 7.9  | 84  | Prescription only  | Dibenzazepine anticonvulsants  | antiepileptic medicine
+Trintellix  | 5.9  | 1044  | Prescription only  | Miscellaneous antidepressants  | major depressive disorder
+Triumeq  | 8.3  | 119  | Prescription only  | Antiviral combinations  | human immunodeficiency virus (HIV)
+Tylenol  | 6.2  | 28  | Rx and/or OTC  | Miscellaneous analgesics  | headache
+Tylenol with Codeine #3  | 4.7  | 151  | Discontinued  | Narcotic analgesic combinations  | pain
+Tysabri  | 7.8  | 97  | Prescription only  | Selective immunosuppressants  | multiple sclerosis
+Ubrelvy  | 5.4  | 179  | Prescription only  | CGRP inhibitors  | migraine headache
+Uceris  | 5.5  | 29  | Prescription only  | Glucocorticoids  | ulcerative colitis
+UlcerEase  | 5.2  | 41  | Rx and/or OTC  | Topical anesthetics  | dandruff
+Ulipristal  | 7.2  | 704  | Prescription only  | Progesterone receptor modulators  | birth control
+Uloric  | 8.1  | 46  | Prescription only  | Antihyperuricemic agents  | gout symptoms
+Ultracet  | 7.6  | 31  | Prescription only  | Narcotic analgesic combinations  | moderate to severe pain
+Ultram  | 6.2  | 229  | Prescription only  | Opioids (narcotic analgesics)  | severe pain
+Ultram ER  | 7.8  | 34  | Discontinued  | Opioids (narcotic analgesics)  | pain
+Umeclidinium  | 3.0  | 31  | Prescription only  | Anticholinergic bronchodilators  | COPD
+Umeclidinium and vilanterol  | 7.1  | 64  | Prescription only  | Bronchodilator combinations  | COPD
+Unisom  | 5.6  | 78  | Rx and/or OTC  | Miscellaneous anxiolytics, sedatives and hypnotics  | runny nose
+Uptravi  | 4.9  | 23  | Prescription only  | Agents for pulmonary hypertension  | pulmonary arterial hypertension
+Uribel  | 6.4  | 37  | Prescription only  | Urinary antispasmodics  | pain
+Uricalm  | 7.1  | 31  | Rx and/or OTC  | Miscellaneous genitourinary tract agents  | pain
+Uroxatral  | 6.2  | 20  | Prescription only  | Alpha-adrenoreceptor antagonists  | benign prostatic hyperplasia
+Ursodiol  | 8.0  | 27  | Prescription only  | Gallstone solubilizing agents  | gallstones
+Valacyclovir  | 8.4  | 471  | Prescription only  | Purine nucleosides  | cold sores
+Valium  | 8.7  | 321  | Prescription only  | Benzodiazepine anticonvulsants  | anxiety
+Valproic acid  | 5.8  | 55  | Prescription only  | Fatty acid derivative anticonvulsants  | bipolar disorder
+Valsartan  | 5.6  | 136  | Prescription only  | Angiotensin receptor blockers  | high blood pressure
+Valtrex  | 8.7  | 293  | Prescription only  | Purine nucleosides  | cold sores
+Vancomycin  | 6.6  | 45  | Prescription only  | Glycopeptide antibiotics  | diarrhea
+Varenicline  | 8.6  | 1648  | Prescription only  | Smoking cessation agents  | smoking cessation
+Vascepa  | 5.9  | 106  | Prescription only  | Miscellaneous antihyperlipidemic agents  | heart attack
+Venlafaxine  | 6.4  | 2645  | Prescription only  | Serotonin-norepinephrine reuptake inhibitors  | major depressive disorder
+Ventolin HFA  | 7.2  | 19  | Prescription only  | Adrenergic bronchodilators  | bronchospasm
+Verapamil  | 7.7  | 173  | Prescription only  | Calcium channel blocking agents  | high blood pressure
+VESIcare  | 5.6  | 139  | Prescription only  | Urinary antispasmodics  | overactive bladder
+Viagra  | 8.6  | 256  | Prescription only  | Impotence agents  | erectile dysfunction
+Vicodin  | 7.8  | 143  | Discontinued  | Narcotic analgesic combinations  | pain
+Victoza  | 7.7  | 751  | Prescription only  | Incretin mimetics  | type 2 diabetes mellitus
+Viibryd  | 5.8  | 830  | Prescription only  | Miscellaneous antidepressants  | major depressive disorder
+Vilazodone  | 5.8  | 937  | Prescription only  | Miscellaneous antidepressants  | major depressive disorder
+Vimpat  | 6.7  | 151  | Prescription only  | Miscellaneous anticonvulsants  | partial-onset seizures
+Vistaril  | 5.6  | 223  | Discontinued  | Antihistamines  | hives
+Vivitrol  | 7.7  | 195  | Prescription only  | Drugs used in alcohol dependence  | opioid use disorder
+Voltaren  | 7.4  | 165  | Prescription only  | Nonsteroidal anti-inflammatory drugs  | osteoarthritis
+Voltaren Arthritis Pain Gel  | 7.1  | 258  | Over the counter  | Topical non-steroidal anti-inflammatories  | osteoarthritis
+Vortioxetine  | 6.0  | 1428  | Prescription only  | Miscellaneous antidepressants  | major depressive disorder
+Votrient  | 8.2  | 81  | Prescription only  | VEGF/VEGFR  inhibitors  | renal cell carcinoma
+Vytorin  | 7.5  | 20  | Prescription only  | Antihyperlipidemic combinations  | lower total cholesterol
+Wakix  | 5.2  | 15  | Prescription only  | CNS stimulants  | narcolepsy
+Warfarin  | 8.2  | 54  | Prescription only  | Coumarins and indandiones  | stroke
+Welchol  | 8.0  | 43  | Prescription only  | Bile acid sequestrants  | high cholesterol
+Wellbutrin SR  | 7.2  | 142  | Prescription only  | Miscellaneous antidepressants  | major depressive disorder
+Wellbutrin XL  | 7.4  | 466  | Prescription only  | Miscellaneous antidepressants  | major depressive disorder
+WP Thyroid  | 4.8  | 23  | Prescription only  | Thyroid drugs  | low thyroid
+Xalatan  | 7.4  | 12  | Prescription only  | Ophthalmic glaucoma agents  | glaucoma
+Xanax  | 8.7  | 892  | Prescription only  | Benzodiazepines  | anxiety disorders
+Xarelto  | 5.5  | 214  | Prescription only  | Factor Xa inhibitors  | venous thromboembolism, or VTE
+Xeloda  | 6.7  | 30  | Prescription only  | Antimetabolites  | breast cancer
+Xenical  | 8.3  | 116  | Prescription only  | Peripherally acting antiobesity agents  | weight loss
+Xgeva  | 6.1  | 8  | Prescription only  | Miscellaneous bone resorption inhibitors  | multiple myeloma
+Xiaflex  | 2.9  | 91  | Prescription only  | Miscellaneous uncategorized agents  | Dupuytren's contracture
+Xifaxan  | 6.3  | 90  | Prescription only  | Miscellaneous antibiotics  | irritable bowel syndrome
+Xigduo XR  | 7.2  | 16  | Prescription only  | Antidiabetic combinations  | type 2 diabetes mellitus
+Xofluza  | 7.5  | 24  | Prescription only  | Miscellaneous antivirals  | influenza virus
+Xolair  | 7.5  | 192  | Prescription only  | Selective immunosuppressants  | asthma
+Xopenex  | 8.9  | 15  | Prescription only  | Adrenergic bronchodilators  | bronchospasm
+Xtandi  | 5.1  | 17  | Prescription only  | Antiandrogens  | prostate cancer
+Xyrem  | 7.6  | 107  | Prescription only  | Miscellaneous anxiolytics, sedatives and hypnotics  | narcolepsy
+Xywav  | 7.0  | 9  | Prescription only  | Miscellaneous anxiolytics, sedatives and hypnotics  | narcolepsy
+Xyzal  | 5.4  | 281  | Prescription only  | Antihistamines  | runny nose
+Yasmin  | 5.2  | 586  | Prescription only  | Contraceptives  | contraception
+Yaz  | 5.9  | 945  | Prescription only  | Contraceptives  | contraception
+Zaditor  | 5.9  | 8  | Over the counter  | Ophthalmic antihistamines and decongestants  | runny nose
+Zaleplon  | 5.3  | 134  | Prescription only  | Miscellaneous anxiolytics, sedatives and hypnotics  | insomnia
+Zantac  | 7.6  | 83  | Discontinued  | H2 antagonists  | gastroesophageal reflux disease (GERD)
+Zenpep  | 7.3  | 11  | Prescription only  | Digestive enzymes  | inflammation of the pancreas
+Zenzedi  | 8.3  | 28  | Prescription only  | CNS stimulants  | nerves
+Zestril  | 6.7  | 12  | Prescription only  | Angiotensin Converting Enzyme Inhibitors  | high blood pressure
+Zetia  | 4.3  | 66  | Prescription only  | Cholesterol absorption inhibitors  | high cholesterol
+Ziprasidone  | 5.6  | 460  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Zocor  | 5.0  | 22  | Prescription only  | Statins  | cholesterol
+Zofran  | 8.0  | 258  | Prescription only  | 5HT3 receptor antagonists  | chemotherapy
+Zofran ODT  | 7.3  | 56  | Prescription only  | 5HT3 receptor antagonists  | nausea
+Zoladex  | 6.7  | 90  | Prescription only  | Gonadotropin releasing hormones  | prostate cancer
+Zoledronic acid  | 4.8  | 337  | Prescription only  | Bisphosphonates  | osteoporosis
+Zolmitriptan  | 7.5  | 158  | Prescription only  | Antimigraine agents  | headache
+Zolpidem  | 6.9  | 1022  | Prescription only  | Miscellaneous anxiolytics, sedatives and hypnotics  | insomnia
+Zometa  | 4.5  | 41  | Prescription only  | Bisphosphonates  | hypercalcemia
+Zomig  | 7.0  | 96  | Prescription only  | Antimigraine agents  | migraine
+Zonegran  | 6.6  | 65  | Prescription only  | Carbonic anhydrase inhibitor anticonvulsants  | partial seizures
+Zonisamide  | 5.5  | 140  | Prescription only  | Carbonic anhydrase inhibitor anticonvulsants  | seizures
+Zovirax  | 8.2  | 17  | Prescription only  | Purine nucleosides  | cold sores
+Zubsolv  | 7.3  | 120  | Prescription only  | Narcotic analgesic combinations  | opioid addiction
+Zyprexa  | 5.8  | 390  | Prescription only  | Atypical antipsychotics  | schizophrenia
+Zyrtec  | 5.8  | 195  | Rx and/or OTC  | Antihistamines  | runny nose
+Zytiga  | 8.5  | 37  | Prescription only  | Miscellaneous antineoplastics  | prostate cancer
+Zyvox  | 8.8  | 27  | Prescription only  | Oxazolidinone antibiotics  | pneumonia
+5-HTP  | 6.5  | 149  | Over the counter  | Herbal products  | depression
+5-hydroxytryptophan  | 6.4  | 185  | Over the counter  | Herbal products  | depression
