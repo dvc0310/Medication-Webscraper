@@ -1,9 +1,7 @@
-import pprint
 import requests
 from bs4 import BeautifulSoup
 import time
 import re
-import pandas as pd
 from string import ascii_lowercase
 import drugScraper as ds
 import time
@@ -18,7 +16,7 @@ with open('medication_scraper/drug_ratings.txt', 'w+', encoding="utf-8") as f:
     ds.scrapelink(Dict)
     for k, v in Dict.items():
         page = requests.get('http://drugs.com/' + v['link'],headers=headers_)
-        #time.sleep(random.randint(1,2))
+        time.sleep(random.randint(1,1))
         soup = BeautifulSoup(page.content, "html.parser")
         target_subtitle = soup.find_all("p", class_='drug-subtitle', recursive=True)
         if len(target_subtitle) > 0:
@@ -55,9 +53,6 @@ with open('medication_scraper/drug_ratings.txt', 'w+', encoding="utf-8") as f:
         v['uses list'] = uses_lst
         rating_subtitle = soup.find_all("div", class_='ddc-rating-summary', recursive=True)    
         status_subtitle = soup.find_all("div", class_='ddc-status-info', recursive=True)
-   
-        #, v['uses list'], ' |' 
-        #' |', v['drug class list'],
 
         try:
             rating = rating_subtitle[0].find('a').string
@@ -78,24 +73,6 @@ with open('medication_scraper/drug_ratings.txt', 'w+', encoding="utf-8") as f:
         except:
             pass
  
-        
-        
-        
-""" target_uses = soup.find_all('h2',id='uses')
-        uses_lst = []
-        for use_tag in target_uses:
-            for item in use_tag.next_siblings:
-                if item.name=="h2": 
-                    break
-                try:
-                    if item != '\n':
-                        for c in item:
-                            if c.name == 'a' and 'cg' in c.attrs['href']:
-                                uses_lst.append(c.string)
-                            elif c.name == 'a' and 'health-guide' in c.attrs['href']:
-                                uses_lst.append(c.string)             
-                except:
-                    continue
-                
-        v['uses list'] = uses_lst """        
+      
+       
        
