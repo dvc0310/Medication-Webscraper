@@ -40,6 +40,3 @@ You can then access the scraped data in the `meds.csv` file.
 
 Please be aware of the terms of service on `drugs.com` regarding web scraping. Always ensure you are respectful and considerate when running web scraping tools to prevent overloading the server. This webscraper was designed to scrape slower than it could to prevent overloading the website.
 
----
-
-Remember, you can add the additional sections as suggested in the previous response depending on the complexity and goals of your project.
