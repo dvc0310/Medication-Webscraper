@@ -8,9 +8,6 @@ The script relies on several Python libraries. You will need to have the followi
 
 - `requests`
 - `BeautifulSoup4`
-- `time`
-- `re`
-- `random`
 - `pandas`
 - `drugScraper` (a custom module used in this script)
 
